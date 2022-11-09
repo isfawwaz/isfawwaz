@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I'm Fawwaz
+a normal software engineer, currently working at eFishery 🐟 as Software Engineer.
 
-<!--
-**isfawwaz/isfawwaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💬 most used language JS like React, React Native
 
-Here are some ideas to get you started:
+📞 you can reach me at
+- [Twitter @isfawwaz](https://twitter.com/isfawwaz)
+- [LinkedIn](https://www.linkedin.com/in/mefawwaz)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Github Stat
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isfawwaz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![isfawwaz github stats](https://github-readme-stats.vercel.app/api?username=isfawwaz&show_icons=true)
